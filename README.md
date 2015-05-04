@@ -1,5 +1,4 @@
-Body Parts
-==========
+# Body Parts
 
 ## Inspired by Pea.rs - a spot for me to keep bits of markup and styling that I have found myself writing over and over. No more!
 
